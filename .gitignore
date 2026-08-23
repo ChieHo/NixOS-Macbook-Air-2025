@@ -1,0 +1,9 @@
+# .gitignore
+flake.lock
+secrets/
+.nixops/
+result
+result-*
+*.swp
+*~
+.nix-channels
