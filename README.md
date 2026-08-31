@@ -1,4 +1,4 @@
-# NixOS on MacBook Air 2015 
+# NixOS on MacBook Air 2015 (discontinued, new repo because new device)
 
 NixOS-configuration for **MacBook Air (2015, Intel i7, 8 GB RAM)**, with [Nix Flakes](https://nixos.wiki/wiki/Flakes). Most Packages relevant for my Computer Science mandatory modules
 ## structure
