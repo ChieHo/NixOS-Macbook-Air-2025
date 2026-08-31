@@ -32,5 +32,11 @@ NixOS-configuration for **MacBook Air (2015, Intel i7, 8 GB RAM)**, with [Nix Fl
    ```bash
    sudo nixos-rebuild switch --flake .#nixos
    ```
+   or for zsh:
+   
+   ```zsh
+   sudo nixos-rebuild switch --flake ".#nixos"
+   ```
+  
 ## Notes
 - `hardware-configuration.nix` is generated automatic from `nixos-generate-config` and  **don't** do manual configuration
