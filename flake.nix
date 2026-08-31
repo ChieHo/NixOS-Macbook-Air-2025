@@ -12,8 +12,9 @@
         modules = [
           ./hardware-configuration.nix
           ./configuration.nix
-	  ./macbook.nix
-	  ./jupyter.nix
+          ./macbook.nix
+          ./jupyter.nix
+          ./packages.nix
         ];
       };
     };
